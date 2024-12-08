@@ -1,5 +1,5 @@
 # Artificial intelligence (AI) courses
-## Compilation of the Most Popular and Useful Courses
+## Compilation of the most popular and useful courses
 
 ### Gustavo Guanabara (curso em video)
 
