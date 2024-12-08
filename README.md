@@ -1,2 +1,1 @@
-# ai_courses
-Artificial intelligence courses
+# Artificial intelligence (AI) courses
